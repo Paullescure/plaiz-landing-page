@@ -1,0 +1,61 @@
+.banner{
+
+	background-size: cover;
+	background-position: center;
+	color: white;
+	padding: 20px 0px;
+}
+
+
+.banner h1{
+	font-size: 32px;
+  color: #FADF63
+}
+
+.banner h2{
+	font-size: 20px;
+	font-weight: lighter;
+	opacity: 100%;
+	margin-bottom: 40px;
+	text-align: right;
+}
+
+.banner a{
+	margin-left:2px;
+
+}
+
+.sign{
+	display: flex;
+	justify-content: flex-end;
+	color:white ;
+}
+
+
+
+#bannertop{
+	background-image: linear-gradient(-225deg,rgba(0,0,0,0.1) 0%, rgba(0,0,0,0.4) 99%),url("/Users/paullescure/Desktop/Le wagon online/Plaiz - website/images/banner-image-plaiz.jpg");
+}
+
+
+
+#bannerdown{
+    background-color: #F7F7F7;
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: black;
+}
+
+
+/*COMMENT FAIRE POUR REUTILISER*/
+.containerbanner{
+	display: flex;
+	justify-content: space-between;
+	margin: 0px auto;
+	width: 700px;
+}
+
+
+

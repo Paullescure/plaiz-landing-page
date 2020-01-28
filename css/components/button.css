@@ -1,0 +1,14 @@
+.button{
+	background-color: #015668;
+	color: white;
+	padding: 10px 25px;
+	border-radius: 4px;
+	box-shadow: 0px 2px 15px rbv(200,200,200);
+	font-size: 11px;
+}
+
+.connexion {
+	background: none;
+	padding: 4px 8px;
+	font-size: 8px;
+}
